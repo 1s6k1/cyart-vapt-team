@@ -1,0 +1,2 @@
+
+The Nmap scan of 192.168.159.131 identifies a highly vulnerable Metasploitable 2 instance. Reconnaissance revealed 23 exposed services, including critical entry points like vsftpd 2.3.4, UnrealIRCd, and an unauthenticated root bindshell on port 1524. These findings confirm multiple high-risk vectors for immediate system compromise.
