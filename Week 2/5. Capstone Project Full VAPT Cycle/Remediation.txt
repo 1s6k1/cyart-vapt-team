@@ -1,0 +1,13 @@
+Remediation:
+
+1) Implement server-side input validation and sanitization for all user-supplied parameters (e.g., id).
+
+2) Use parameterized queries / prepared statements instead of dynamic SQL.
+
+3) Enforce least-privilege access for database users (avoid admin/root access).
+
+4) Enable WAF rules to detect and block SQL injection patterns.
+
+5) Remove verbose database error messages from client responses.
+
+6) After fixes, perform a full rescan (manual + automated) to validate remediation.
