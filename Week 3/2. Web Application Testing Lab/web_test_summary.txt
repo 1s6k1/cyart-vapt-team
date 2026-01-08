@@ -1,0 +1,1 @@
+DVWA was tested for OWASP Top 10 vulnerabilities using Burp Suite, sqlmap, and OWASP ZAP. Critical SQL Injection and medium-risk reflected XSS were identified due to improper input validation. Weak authentication and session handling increased attack impact. Proper sanitization and secure coding practices are recommended.
