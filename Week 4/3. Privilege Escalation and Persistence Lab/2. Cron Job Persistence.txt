@@ -1,0 +1,1 @@
+After obtaining root access, a malicious cron job was created to execute a backdoor script at regular intervals. This ensured automatic re‑establishment of attacker access after system reboot or session termination, allowing persistent control of the compromised system without requiring repeated exploitation.

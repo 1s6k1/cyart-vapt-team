@@ -1,0 +1,1 @@
+Security testing of the VAmPI API identified a Broken Object Level Authorization vulnerability in the /users/v1 endpoint. Unauthenticated requests returned sensitive user information, including admin details. This flaw enables user enumeration and potential attack chaining, posing a critical security risk requiring immediate access control enforcement.
