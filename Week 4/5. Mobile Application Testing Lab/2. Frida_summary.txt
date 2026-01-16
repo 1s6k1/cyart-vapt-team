@@ -1,0 +1,1 @@
+Frida can dynamically hook mobile app functions at runtime to observe or alter logic. In security testing, analysts intercept authentication checks, modify return values, and validate client-side trust weaknesses. Findings demonstrate why sensitive validation must occur server-side, with proper integrity checks and runtime protections against instrumentation.
