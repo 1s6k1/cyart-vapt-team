@@ -1,0 +1,1 @@
+Ettercap was used to perform an ARP spoofing Man-in-the-Middle attack between the victim and gateway. By poisoning ARP caches, network traffic was intercepted and analyzed in real time. Sensitive information such as credentials and session data was captured using protocol dissectors and Wireshark, demonstrating the risk of unsecured local networks.
